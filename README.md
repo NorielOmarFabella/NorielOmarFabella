@@ -7,7 +7,7 @@ I'm Noriel Omar Fabella, passionate about coding and database management. I thri
 ## Education
 
 - **BS Computer Science**
-  New Era University (2021-Present)
+  New Era University (2022-Present)
 
 ## Certifications
 
@@ -18,11 +18,10 @@ I'm Noriel Omar Fabella, passionate about coding and database management. I thri
 
 ## Skills
 
-- **Programming:** Java, JavaScript
+- **Programming:** Java, HTML, SQL
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact Me
 
-- LinkedIn: [LinkedIn Profile](linkedin_profile_link)
-- Email: juandelacruz@gmail.com
+- Email: norielomar.fabella@gmail.com
